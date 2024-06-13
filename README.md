@@ -7,9 +7,12 @@ After more than 10 years as a restaurant manager, the digital path opened up to 
 1. With Swift and Swift UI within the Apple Foundation Program at Simplon.
 2. In HTML, CSS and JavaScript at the Euratechnologies-Lille Digital Nursery.
 
-It’s only been 4 months since I discovered this universe, here are my first steps!
+It’s been now 9 months since I discovered this universe, here are my first steps!
 
-🌱 Since September 25, 2023, I am in training as a web and mobile developer at M2i Formation (Hauts-de-France, Villeneuve d'Ascq - Parc de la Haute Borne).
+🌱 From September 2023 to April 2024, I have been gradutated as a web and mobile developer at M2i Formation (Bac+2 - Hauts-de-France, Villeneuve d'Ascq - Parc de la Haute Borne).
+
+🌱 Since May, I have been training as a designer and developer of react javascript applications with Openclassrooms (Bac+3/4 - Full Remote).
+
 UPDATE : 🌱 I’m currently learning **NextJs, VueJs and UX-UI Design**
 
 👀 I am interested and delighted to exchange with you, to receive advice and to share my experiences!
