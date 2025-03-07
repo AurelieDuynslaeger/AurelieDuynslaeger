@@ -1,5 +1,30 @@
-# 💫 About Me:
-A newly frontend developer from France, based near Lille.<br>After more than 10 years as a restaurant manager, the digital path opened up to me following a skills assessment. Since May 2023, I have started my first lines of code:<br><br>With Swift and Swift UI within the Apple Foundation Program at Simplon.<br>In HTML, CSS and JavaScript at the Euratechnologies-Lille Digital Nursery.<br>It’s been now 9 months since I discovered this universe, here are my first steps!<br><br>🌱 From September 2023 to April 2024, I have been gradutated as a web and mobile developer at M2i Formation (Bac+2 - Hauts-de-France, Villeneuve d'Ascq - Parc de la Haute Borne).<br><br>🌱 Since May, I have been training as a designer and developer of react javascript applications with Openclassrooms (Bac+3/4 - Full Remote).<br><br>UPDATE : 🌱 I’m currently learning NextJs, VueJs and UX-UI Design<br><br>👀 I am interested and delighted to exchange with you, to receive advice and to share my experiences!<br><br>💞️ I intend to present here my practical work requested by the trainers as well as my personal achievements since my concrete immersion in this world!<br><br>📫 You can contact me on LinkedIn: Aurélie Duynslaeger!<br><br>See you soon! 🙌🏻✌🏻 
+# 💫 About Me  
+
+I'm a **frontend developer** from France, based near Lille. 🚀  
+
+After more than **10 years as a restaurant manager**, I discovered the world of development following a **skills assessment**. Since May 2023, I’ve been fully immersed in coding, step by step:  
+
+## ✨ First lines of code 2 years ago
+- **Swift & Swift UI** – Apple Foundation Program at Simplon 
+- **HTML, CSS, JavaScript** – Euratechnologies-Lille Digital Nursery  
+
+## 👨‍🎓 My journey so far  
+- **September 2023 – April 2024**: Graduated as a **Web & Mobile Developer** (Bac+2) at M2i Formation, Villeneuve d'Ascq.  
+- **May 2024 – December 2024**: Specialized in **React & JavaScript application development** (Bac+3/4) with OpenClassrooms.  
+
+## 🔥 Freelance Developer  
+Since **January 2025**, I have been working as a **freelance frontend developer**, helping businesses build modern, high-performance web applications.  
+
+## 🌱 Currently learning  
+- **AI Agents with Hugging Face** to push my skills further with AI
+- **UX/UI Design & SEO** to create user-friendly and performing experiences  
+
+💬 Always open to discussions, collaborations, and knowledge sharing! Feel free to reach out.  
+
+📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/aurelie-duynslaeger/)**  
+
+See you soon! 🙌🏻✨  
+
 
 
 ## 🌐 Socials:
