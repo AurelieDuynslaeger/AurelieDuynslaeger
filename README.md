@@ -10,7 +10,7 @@ After more than **10 years as a restaurant manager**, I discovered the world of 
 
 ## 👨‍🎓 My journey so far  
 - **September 2023 – April 2024**: Graduated as a **Web & Mobile Developer** (Bac+2) at M2i Formation, Villeneuve d'Ascq.  
-- **May 2024 – December 2024**: Specialized in **React & JavaScript application development** (Bac+3/4) with OpenClassrooms.  
+- **May 2024 – October 2024**: Specialized in **React & JavaScript application development** (Bac+3/4) with OpenClassrooms.  
 
 ## 🔥 Freelance Developer  
 Since **January 2025**, I have been working as a **freelance frontend developer**, helping businesses build modern, high-performance web applications.  
@@ -21,9 +21,9 @@ Since **January 2025**, I have been working as a **freelance frontend developer*
 
 💬 Always open to discussions, collaborations, and knowledge sharing! Feel free to reach out.  
 
-📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/aurelie-duynslaeger/)**  
+📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/aur%C3%A9lie-duynslaeger/)**  
 
-See you soon! 🙌🏻✨  
+See you soon! 🙌🏻✨    
 
 
 
