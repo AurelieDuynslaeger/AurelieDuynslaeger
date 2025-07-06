@@ -13,11 +13,12 @@ After more than **10 years as a restaurant manager**, I discovered the world of 
 - **May 2024 – October 2024**: Specialized in **React & JavaScript application development** (Bac+3/4) with OpenClassrooms.  
 
 ## 🔥 Freelance Developer  
-Since **January 2025**, I have been working as a **freelance frontend developer**, helping businesses build modern, high-performance web applications.  
+Since **January 2025**, I have been working as a **freelance frontend developer**, especialized in React & Next.Js, helping businesses build modern, high-performance web applications.  
 
 ## 🌱 Currently learning  
 - **AI Agents with Hugging Face** to push my skills further with AI
-- **UX/UI Design & SEO** to create user-friendly and performing experiences  
+- **UX/UI Design & SEO** to create user-friendly and performing experiences
+- Digital Marketing  
 
 💬 Always open to discussions, collaborations, and knowledge sharing! Feel free to reach out.  
 
@@ -38,9 +39,6 @@ See you soon! 🙌🏻✨
 ![](https://github-readme-stats.vercel.app/api?username=AurelieDuynslaeger&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AurelieDuynslaeger&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelieDuynslaeger&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 ---
