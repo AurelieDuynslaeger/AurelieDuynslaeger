@@ -4,7 +4,7 @@ I'm a **frontend developer** from France, based near Lille. 🚀
 
 After more than **10 years as a restaurant manager**, I discovered the world of development following a **skills assessment**. Since May 2023, I’ve been fully immersed in coding, step by step:  
 
-## ✨ First lines of code 2 years ago
+## ✨ First lines of code 3 years ago
 - **Swift & Swift UI** – Apple Foundation Program at Simplon 
 - **HTML, CSS, JavaScript** – Euratechnologies-Lille Digital Nursery  
 
